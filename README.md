@@ -6,7 +6,7 @@
 | :----: | :----: | :----: | :----:|:----:|:----:|:----:|:----:|
 | Llama 2 | 7/18/2023 | 7B, 13B, 70B | 4K | Sentencepiece | [Use Policy](models/llama2/MODEL_CARD.md) | [License](models/llama2/LICENSE) | [Model Card](models/llama2/MODEL_CARD.md) |
 | Llama 3 | 4/18/2024 | 8B, 70B | 8K | TikToken-based | [Use Policy](models/llama3/MODEL_CARD.md) | [License](models/llama3/LICENSE) | [Model Card](models/llama3/MODEL_CARD.md) |
-| Llama 3.1 | 7/23/2024 | 8B, 70B, 405B | 128K | TikToken-based | [Use Policy](models/llama3_1/MODEL_CARD.md) | [License](models/llama3_1/LICENSE) | [Model Card](models/llama3_1/MODEL_CARD.md) |
+| Llama 3.1 | 7/23/2024 | 8B, 70B, 405B | 128K | TikToken-based | [Use Policy](models/llama3_1/MODEL_CARD.md) | | [Model Card](models/llama3_1/MODEL_CARD.md) |
 
 ### Access to Hugging Face
 
@@ -36,3 +36,4 @@ You can install this repository as a [package](https://pypi.org/project/llama-mo
 4. [llama get started](https://llama.meta.com/get-started/)
 5. [Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/)
 6. [FAQ](https://llama.meta.com/faq)
+7. [Responsible Use Guide](https://llama.meta.com/responsible-use-guide/)
